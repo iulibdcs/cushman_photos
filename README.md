@@ -1,6 +1,7 @@
 ## Overview
 
-The Charles W. Cushman Photograph Collection, initially published in
+The <a
+href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman Photograph Collection</a>, initially published in
 late 2003 by the Indiana University Libraries in partnership with the
 Indiana University Archives, is one of our most visited digital special collections, with nearly
 nine million _unique_ hits to date.  Charles Cushman, amateur photographer and
@@ -32,20 +33,20 @@ included a home page feature on the
 Recently, we were contacted by <a href="https://twitter.com/@jonvoss">Jon Voss</a> 
 from <a href="http://www.historypin.com">HistoryPin</a> who had heard of our Cushman Collection
 and was keen on integrating all or parts of the collection into HistoryPin.  Developed by 
-the NFP, <a href="http://www.wearewhatwedo.org/">We Are What We Do</a>, in 
+the Non-For-Profit, <a href="http://www.wearewhatwedo.org/">We Are What We Do</a>, in 
 <a href="http://googleblog.blogspot.com/2012/03/google-and-historypin-launch-online.html">partnership with Google</a>,
 HistoryPin is a community-driven, collaborative digital history project that exposes our global cultural heritage, 
 with an emphasis on place and space, via a platform that's conducive to mapping (or "pinning"), storytelling, 
 and crowdsourcing our collective knowledge.
 
-As indicated above, the Cushman photos are a mesmerizing slice of life, time and space that
+As indicated above, the Cushman photos are a mesmerizing slice of life that
 has already captured the interests of so many people.  The Cushman collection
 is an ideal contribution to HistoryPin, and we are, in turn, eager to share the Cushman Collection 
-more broadly and benefit from the collective, communal knowledge.  
+more broadly and benefit from the collective, communal knowledge of HistoryPin users.  
 
 To this end, though others interested in the Cushman metadata are welcome to it (see Terms of Use below),
 we include in this repository a CSV file of 15,190 rows of metadata, 14,425 records of which are currently published in
-the <a href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman Photograph Collection</a>.  This
+the <a href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman Photograph Collection</a>.  The
 collection is <a href="http://webapp1.dlib.indiana.edu/cushman/projectInfo/catalogInfo.jsp">richly described</a> with
 every record containing geographic location information, at a minimum, at the city level.
 
@@ -62,9 +63,8 @@ work is licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative
 Commons Attribution 4.0 International License</a>.
 
-The metadata for the <a
-href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman
-Photograph Collection</a> published by the Indiana University Libraries
+The metadata for the Charles W. Cushman
+Photograph Collection is published by the Indiana University Libraries
 is available free of restrictions under the Creative Commons Attribution
 License. This means that you can share or adapt the metadata from the
 Cushman collection for any purpose, even commercial, as long as you give
