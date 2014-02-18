@@ -48,7 +48,18 @@ To this end, though others interested in the Cushman metadata are welcome to it 
 we include in this repository a CSV file of 15,190 rows of metadata, 14,425 records of which are currently published in
 the <a href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman Photograph Collection</a>.  The
 collection is <a href="http://webapp1.dlib.indiana.edu/cushman/projectInfo/catalogInfo.jsp">richly described</a> with
-every record containing geographic location information, at a minimum, at the city level.
+every record containing geographic location information, at a minimum, at the city level.  The following
+controlled vocabularies were used:
+
+* <a href="http://www.getty.edu/research/tools/vocabularies/tgn/">Getty Thesauraus of Geographic Names</a> (TGN): Neighborhood, City, State, Country
+* Library of Congress Thesauri for Graphic Materials, <a href="http://www.loc.gov/rr/print/tgm1/">Subject Terms (TGM I)</a>: Topical Subject
+* Library of Congress Thesauri for Graphic Materials, <a href="http://www.loc.gov/rr/print/tgm2/">Genre and Physical Characteristic Terms (TGM II)</a>: Genre
+* Library of Congress Authorities Files (<a href="http://authorities.loc.gov/">LCAF</a>): Personal names, places (not in TGN), subjects (not in TGM I)
+
+Cushman metadata is also available via OAI-PMH, which provides additional information like which
+controlled vocabularies or encodings were used:
+
+* MODS/XML: http://oai.dlib.indiana.edu/phpoai/oai2.php?verb=ListRecords&metadataPrefix=mods&set=cushman 
 
 Once Jon and his team parse through the metadata, we will announce next steps which will hopefully 
 include an unveiling of all or some of the Cushman Collection in HistoryPin as a 
