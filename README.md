@@ -44,7 +44,7 @@ has already captured the interests of so many people.  The Cushman collection
 is an ideal contribution to HistoryPin, and we are, in turn, eager to share the Cushman Collection 
 more broadly and benefit from the collective knowledge of HistoryPin users.  
 
-To this end, though others interested in the Cushman metadata are welcome to it (see Terms of Use below),
+To this end, though others interested in the Cushman metadata are welcome to it,
 we include in this repository a CSV file of 15,190 rows of metadata, 14,425 records of which are currently published in
 the <a href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman Photograph Collection</a>.  The
 collection is <a href="http://webapp1.dlib.indiana.edu/cushman/projectInfo/catalogInfo.jsp">richly described</a> with
@@ -61,32 +61,14 @@ controlled vocabularies or encodings were used:
 
 * MODS/XML: http://oai.dlib.indiana.edu/phpoai/oai2.php?verb=ListRecords&metadataPrefix=mods&set=cushman 
 
-Once Jon and his team parse through the metadata, we will announce next steps which will hopefully 
-include an unveiling of all or some of the Cushman Collection in HistoryPin as a 
-<a href="http://www.historypin.com/curated/">tour</a> or <a href="http://www.historypin.com/channels/">channel</a>.  
-
-## Terms of Use</h2>
- 
-<a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img
-alt="Creative Commons License" style="border-width:0"
-src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This
-work is licensed under a <a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative
-Commons Attribution 4.0 International License</a>.
 
 The metadata for the Charles W. Cushman
 Photograph Collection is published by the Indiana University Libraries
-is available free of restrictions under the Creative Commons Attribution
-license. This means that you can share or adapt the metadata from the
-Cushman collection for any purpose, even commercial, as long as you give
-attribution as follows:
+is available free of restrictions.  If you use the metadata for this project, we ask that you cite your use as follows:
 
 * Metadata from the <a
 href="http://dlib.indiana.edu/collections/cushman/">Charles W. Cushman
-Photograph Collection</a>, licensed under <a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/deed.en_US">CC BY</a>,
-was created under the direction of the Indiana University Archives and
+Photograph Collection</a> was created under the direction of the Indiana University Archives and
 published by the Indiana University Libraries.
 
 
